@@ -1,2 +1,2 @@
-# lpexample
-Linear Programming application example
+# Linear Programming application example
+I used it for my exam prepairing.
